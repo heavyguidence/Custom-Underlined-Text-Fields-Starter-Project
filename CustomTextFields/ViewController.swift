@@ -16,8 +16,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        emailTextField.setupLeftImageView(image: UIImage(systemName: "envelope")!)
-        passwordTextField.setupLeftImageView(image: UIImage(systemName: "lock")!)
+       
         
     }
 

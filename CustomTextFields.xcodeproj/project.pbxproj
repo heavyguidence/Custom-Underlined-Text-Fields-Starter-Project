@@ -13,7 +13,6 @@
 		5AD022842808BA3A00EAF59F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AD022822808BA3A00EAF59F /* Main.storyboard */; };
 		5AD022862808BA3C00EAF59F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AD022852808BA3C00EAF59F /* Assets.xcassets */; };
 		5AD022892808BA3C00EAF59F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AD022872808BA3C00EAF59F /* LaunchScreen.storyboard */; };
-		5AD022912808BF3000EAF59F /* CustomTextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD022902808BF3000EAF59F /* CustomTextFields.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		5AD022852808BA3C00EAF59F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5AD022882808BA3C00EAF59F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5AD0228A2808BA3C00EAF59F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5AD022902808BF3000EAF59F /* CustomTextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFields.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				5AD022852808BA3C00EAF59F /* Assets.xcassets */,
 				5AD022872808BA3C00EAF59F /* LaunchScreen.storyboard */,
 				5AD0228A2808BA3C00EAF59F /* Info.plist */,
-				5AD022902808BF3000EAF59F /* CustomTextFields.swift */,
 			);
 			path = CustomTextFields;
 			sourceTree = "<group>";
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AD022912808BF3000EAF59F /* CustomTextFields.swift in Sources */,
 				5AD022812808BA3A00EAF59F /* ViewController.swift in Sources */,
 				5AD0227D2808BA3A00EAF59F /* AppDelegate.swift in Sources */,
 				5AD0227F2808BA3A00EAF59F /* SceneDelegate.swift in Sources */,
